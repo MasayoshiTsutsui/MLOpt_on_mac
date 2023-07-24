@@ -1,0 +1,3 @@
+vgg11/build/*
+!vgg11/build/build.sh
+*.pt
